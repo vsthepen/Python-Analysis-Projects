@@ -1,1 +1,1 @@
-# Python-Analysis-Projects
+# Python-Analytical-Projects
